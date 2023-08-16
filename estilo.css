@@ -1,12 +1,16 @@
 body{
-    background-color: #5791a8;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #86d4f3;
+    /*background-image: linear-gradient(rgb(241, 129, 129), rgb(121, 243, 121));
+    background-attachment:fixed;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     margin-bottom: 10vh;
 }
 
 .header{
-    background-color: #368db0;
+    /*background-color: #368db0;*/
+    background-image: linear-gradient(rgb(140, 196, 241), rgb(23, 235, 86));
+    background-attachment:fixed;
 }
 
 .img{
